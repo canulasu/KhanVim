@@ -1,1 +1,1 @@
-nvim -u NONE -c "luafile khan.lua"
+nvim -u NONE -c "luafile kitsune.lua"
